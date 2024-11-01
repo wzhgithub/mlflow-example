@@ -1,0 +1,7 @@
+name: demoxxx
+dependencies:
+  - pip
+  - pip:
+    - mlflow>=1.0
+    - scipy
+    - scikit-learn
